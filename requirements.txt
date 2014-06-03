@@ -1,0 +1,13 @@
+beautifulsoup4==4.3.2
+elpy==1.4.1
+flake8==2.1.0
+gnureadline==6.3.3
+ipython==2.1.0
+mccabe==0.2.1
+pep8==1.5.7
+pyflakes==0.8.1
+requests==2.3.0
+rope==0.10.2
+wsgiref==0.1.2
+click==1.1
+pyperclip==1.3
