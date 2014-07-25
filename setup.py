@@ -10,7 +10,7 @@ with open('requirements.txt') as f:
 setup(
     name='amsin',
     description="Simple tool for shortlinking amazon pages.",
-    version='0.1.2',
+    version='0.1.3',
     long_description=__doc__,
     packages=['amsin'],
     author='Anthony Grimes',
