@@ -1,4 +1,4 @@
 beautifulsoup4==4.3.2
 requests==2.3.0
-click==1.1
+click==2.1
 pyperclip==1.3
